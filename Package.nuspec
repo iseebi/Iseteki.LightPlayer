@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Iseteki.LightPlayer</id>
+    <title>LightPlayer - Simple AVPlayer wrapper</title>
+    <version>0.2.0-pre</version>
+    <authors>Nobuhiro Ito</authors>
+    <owners>Nobuhiro Ito</owners>
+	<licenseUrl>https://github.com/iseebi/Iseteki.LightPlayer/blob/master/LICENSE</licenseUrl>
+	<projectUrl>https://github.com/iseebi/Iseteki.LightPlayer</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Simple AVPlayer wrapper (ported from Objective-C JustPlayer)</description>
+    <releaseNotes>
+    </releaseNotes>
+    <copyright>Copyright (C) 2015 Nobuhiro Ito.</copyright>
+    <tags>xamarin monotouch movie player streaming</tags>
+    <dependencies>
+    </dependencies>
+  </metadata>
+  <files>
+    <!-- Touch -->
+    <file src="Iseteki.LightPlayer/bin/Release/Iseteki.LightPlayer.dll"
+        target="lib\Xamarin.iOS10\Iseteki.LightPlayer.dll" />
+  </files>
+</package>
