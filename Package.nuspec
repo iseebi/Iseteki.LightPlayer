@@ -3,16 +3,16 @@
   <metadata>
     <id>Iseteki.LightPlayer</id>
     <title>LightPlayer - Simple AVPlayer wrapper</title>
-    <version>0.2.0-pre</version>
+    <version>0.2.0</version>
     <authors>Nobuhiro Ito</authors>
     <owners>Nobuhiro Ito</owners>
-	<licenseUrl>https://github.com/iseebi/Iseteki.LightPlayer/blob/master/LICENSE</licenseUrl>
+	<licenseUrl>https://raw.githubusercontent.com/iseebi/Iseteki.LightPlayer/master/LICENSE</licenseUrl>
 	<projectUrl>https://github.com/iseebi/Iseteki.LightPlayer</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Simple AVPlayer wrapper (ported from Objective-C JustPlayer)</description>
     <releaseNotes>
     </releaseNotes>
-    <copyright>Copyright (C) 2015 Nobuhiro Ito.</copyright>
+    <copyright>Copyright (C) 2015-2016 Nobuhiro Ito.</copyright>
     <tags>xamarin monotouch movie player streaming</tags>
     <dependencies>
     </dependencies>
